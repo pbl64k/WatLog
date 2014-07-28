@@ -1,0 +1,9 @@
+Compile watlog.hs with GHC and run the resulting executable.
+
+For (trivial) online help, type `help!` and press `<Enter>`.
+
+See also: 
+
+https://github.com/pbl64k/HackerRank-Contests/tree/master/ContributedProblems/ElementaryWatson
+https://www.hackerrank.com/contests/lambda-calculi-jul14/challenges/elementary-watson
+
